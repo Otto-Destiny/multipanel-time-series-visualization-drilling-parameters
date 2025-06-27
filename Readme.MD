@@ -2,7 +2,7 @@
 
 # Multi-Panel Time Series Analytics of Drilling Parameters
 
-![Drilling Parameters Multi-Panel Visualization](images/time_series.png)
+![Drilling Parameters Multi-Panel Visualization](images/time-series.png)
 
 ## Overview
 
